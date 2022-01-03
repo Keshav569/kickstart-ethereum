@@ -1,4 +1,4 @@
-# kickstart-ethereum
+# Crowd Coin
 
 ## What?
 ### A decentralized ethereum blockchain based crowdfunding platform inspired by [kickstarter.com](https://www.kickstarter.com).
@@ -20,21 +20,21 @@ You will also need MetaMask (Ether wallet) installed as a browser extension. Met
 
 1. Make a clone of this directory.
 2. Open terminal and Cd to the downloaded directory.
-sh
+```sh
 cd kickstart
-
+```
 3. Install required dependencies.
-sh
+```sh
 npm install
-
+```
 4. Run automated tests to verify the functionality of solidity contracts (optional)
-sh
+```sh
 npm run test
-
+```
 5. Run Next.js server
-sh
+```sh
 npm run dev
-
+```
 6. You will see server ready on localhost:3000/  prompt on terminal.
 7. Open broswer where the metamask extension in installed (preffered Chrome) and open http://localhost:3000
 
