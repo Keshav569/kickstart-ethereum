@@ -4,11 +4,11 @@
 ### A decentralized ethereum blockchain based crowdfunding platform inspired by [kickstarter.com](https://www.kickstarter.com).
 
 ## Why?
-To increase transparency and prevent fraudulent activities in the world of start-ups and the platforms that have sprung up around them, such as Kickstarter. Despite the fact that e-payments are protected by security measures such as symmetric encryption, they are nevertheless vulnerable to hacking.There is no guarantee that people who post projects on Kickstarter will deliver on their projects, use the money to implement their projects, or that the completed projects will meet backers' expectations. 
+To increase transparency and prevent fraudulent activities in the world of start-ups and the platforms that have sprung up around them, such as Kickstarter. Even though e-payments are protected by security measures such as symmetric encryption, they are nevertheless vulnerable to hacking. There is no guarantee that people who post projects on Kickstarter will deliver on their projects, use the money to implement their projects, or that the completed projects will meet backers' expectations. 
 
 ## How?
 
-The project is a decentralized crowdfunding application, built to solve the problem of money being misused by people, collected using the traditional crowdfunding applications.Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies. Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes.The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for the right purposes only.
+The project is a decentralized crowdfunding application, built to solve the problem of money being misused by people, collected using the traditional crowdfunding applications.Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies. Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes. The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for the right purposes only.
 
 ## How it looks
 
@@ -50,7 +50,7 @@ npm run test
 npm run dev
 ```
 6. You will see server ready on localhost:3000/  prompt on terminal.
-7. Open broswer where the metamask extension in installed (preffered Chrome) and open http://localhost:3000
+7. Open browser where the metamask extension in installed (preferred Chrome) and open http://localhost:3000
 
 ## Tools Used
 * [React.js](https://reactjs.org/docs/getting-started.html) - The web framework used
