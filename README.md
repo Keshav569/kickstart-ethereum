@@ -10,6 +10,20 @@ To increase transparency and prevent fraudulent activities in the world of start
 
 The project is a decentralized crowdfunding application, built to solve the problem of money being misused by people, collected using the traditional crowdfunding applications.Making transaction histories more transparent and secure through the use of blockchain technology. Because Blockchain is a type of distributed ledger, all network participants share the same documentation as opposed to individual copies. Contributors can decide Where to invest and can Acknowledge the requests for money made by the Project Creators through their votes.The creator can only use the money if a minimum number of contributors approve a certain request. It will make sure the money is used for the right purposes only.
 
+## How it looks
+
+HomePage
+![HomePage.png](images/HomePage.png)
+
+Create Campaign
+![CreateCampaign](images/CreateCampaign.png)
+
+Campaign Details
+![CampaignDetails](images/CampaignPage.png)
+
+Request Page
+![RequestPage](images/Request.png)
+
 ## Installation
 
 You'll need [Node.js (npm or yarn)](https://docs.npmjs.com/getting-started) installed to build the app.
