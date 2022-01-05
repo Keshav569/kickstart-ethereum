@@ -21,7 +21,7 @@ You will also need MetaMask (Ether wallet) installed as a browser extension. Met
 1. Make a clone of this directory.
 2. Open terminal and Cd to the downloaded directory.
 ```sh
-cd kickstart
+cd kickstart-ethereum
 ```
 3. Install required dependencies.
 ```sh
