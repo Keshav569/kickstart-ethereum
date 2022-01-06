@@ -59,5 +59,3 @@ npm run dev
 * [Ganache-cli](https://github.com/trufflesuite/ganache-cli) - Ethereum development tools
 * [Mocha](https://mochajs.org/#getting-started) - JavaScript test framework
 
-## Acknowledgments
-* Huge thanks to Stephen Grider for the in-depth course and inspirational project!
